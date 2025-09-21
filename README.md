@@ -65,7 +65,7 @@ Transaction-level Risk Gauge
 https://github.com/user-attachments/assets/8586a344-3d76-480d-a0d2-5833c0933502
 
 
-
+Dataset link https://www.kaggle.com/datasets/waqasishtiaq/credit-card-fraud-dataset?resource=download
 🛠 Tech Stack
 Tool/Library	Purpose
 Streamlit	Interactive dashboard UI
